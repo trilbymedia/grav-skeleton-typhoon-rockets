@@ -1,0 +1,20 @@
+---
+title: Rocket Physics
+menu: Physics
+hero:
+    content: Simulation of the supersonic flow around SpaceX Dragon during atmospheric re-entry using ANSYS CFX
+    image: physics.jpg
+---
+
+## Operation
+
+The effect of the combustion of propellant in the rocket engine is to increase the internal energy of the resulting gases, utilizing the stored chemical energy in the fuel.[citation needed] As the internal energy increases, pressure increases, and a nozzle is utilized to convert this energy into a directed kinetic energy. This produces thrust against the ambient environment to which these gases are released.[citation needed] The ideal direction of motion of the exhaust is in the direction so as to cause thrust. At the top end of the combustion chamber the hot, energetic gas fluid cannot move forward, and so, it pushes upward against the top of the rocket engine's combustion chamber. As the combustion gases approach the exit of the combustion chamber, they increase in speed. The effect of the convergent part of the rocket engine nozzle on the high pressure fluid of combustion gases, is to cause the gases to accelerate to high speed. The higher the speed of the gases, the lower the pressure of the gas (Bernoulli's principle or conservation of energy) acting on that part of the combustion chamber. In a properly designed engine, the flow will reach Mach 1 at the throat of the nozzle. At which point the speed of the flow increases. Beyond the throat of the nozzle, a bell shaped expansion part of the engine allows the gases that are expanding to push against that part of the rocket engine. Thus, the bell part of the nozzle gives additional thrust. Simply expressed, for every action there is an equal and opposite reaction, according to Newton's third law with the result that the exiting gases produce the reaction of a force on the rocket causing it to accelerate the rocket.[51][nb 2]
+
+Rocket thrust is caused by pressures acting on both the combustion chamber and nozzle
+In a closed chamber, the pressures are equal in each direction and no acceleration occurs. If an opening is provided in the bottom of the chamber then the pressure is no longer acting on the missing section. This opening permits the exhaust to escape. The remaining pressures give a resultant thrust on the side opposite the opening, and these pressures are what push the rocket along.
+
+### Nozzle Shape
+
+The shape of the nozzle is important. Consider a balloon propelled by air coming out of a tapering nozzle. In such a case the combination of air pressure and viscous friction is such that the nozzle does not push the balloon but is pulled by it.[53] Using a convergent/divergent nozzle gives more force since the exhaust also presses on it as it expands outwards, roughly doubling the total force. If propellant gas is continuously added to the chamber then these pressures can be maintained for as long as propellant remains. Note that in the case of liquid propellant engines, the pumps moving the propellant into the combustion chamber must maintain a pressure larger than the combustion chamber – typically on the order of 100 atmospheres.[2]
+
+As a side effect, these pressures on the rocket also act on the exhaust in the opposite direction and accelerate this exhaust to very high speeds (according to Newton's Third Law).[2] From the principle of conservation of momentum the speed of the exhaust of a rocket determines how much momentum increase is created for a given amount of propellant. This is called the rocket's specific impulse.[2] Because a rocket, propellant and exhaust in flight, without any external perturbations, may be considered as a closed system, the total momentum is always constant. Therefore, the faster the net speed of the exhaust in one direction, the greater the speed of the rocket can achieve in the opposite direction. This is especially true since the rocket body's mass is typically far lower than the final total exhaust mass.
