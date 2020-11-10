@@ -2,48 +2,49 @@ enabled: true
 production: false
 append_site_title: true
 custom_logo_strip_svg_style: false
-colors:  # don't work for modular as the CSS is page-level
+colors:
   text_style: 'text-gray-600 dark:text-gray-400'
-  brightness_lighter: '20'
-  brightness_darker: '20'
+  brightness_lighter: 20
+  brightness_darker: 20
   primary: '#006AE1'
 appearance:
   theme: dark
-  selector: yes
-  storage: no
-section_classes: bg-white dark:bg-gray-900 py-8 md:py-24
-wrapper_spacing: xl:container xl:mx-auto md:px-6 px-4
+  selector: true
+  storage: true
+section_classes: 'bg-white dark:bg-gray-900 py-8 md:py-24'
+wrapper_spacing: 'xl:container xl:mx-auto md:px-6 px-4'
 header_bar:
   logo: default
   background: auto
   text: auto
   primary_menu_levels: 3
+  custom_style: 'linear-gradient(90deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 100%)'
 hero:
-  display: yes
+  display: true
   overlay: dark
   overlay_direction: right
-  overlay_gradient:
-        - '0.9'
-        - '0.2'
   alignment: left
   image: 'page://media/spacex.jpg'
   custom: '#3C4043'
   padding: 'pt-32 md:pt-40 lg:pt-48 xl:pt-56 pb-16 md:pb-20 lg:pb-24 xl:pb-32'
+  overlay_gradient:
+    - '0.9'
+    - '0.2'
 footer:
   menu:
     -
-      label: Terms & Conditions
+      label: 'Terms & Conditions'
       link: '#'
     -
-      label: Privacy Policy
+      label: 'Privacy Policy'
       link: '#'
   social:
     -
       network: twitter
-      link: https://twitter.com/getgrav
+      link: 'https://twitter.com/getgrav'
     -
       network: github
-      link: https://github.com/getgrav
+      link: 'https://github.com/getgrav'
   copyright: "[Grav](https://getgrav.org?classes=hover:text-primary,font-bold) was \r\n[svg-icon icon=\"code\" class=\"text-gray-700 dark:text-gray-400 w-4 h-4\"] with\r\n[svg-icon icon=\"heart\" class=\"text-red-700 w-4 h-4 animate-pulse\"] by \r\n[Trilby Media, LLC](https://trilby.media?classes=hover:text-primary,font-bold)\r\n"
 notices:
   -
@@ -51,10 +52,16 @@ notices:
     enabled: false
     only_homepage: true
     type: critical
-    learn_more_link: https://getgrav.org
+    learn_more_link: 'https://getgrav.org'
   -
     content: 'An example **note** that should appear on all pages! No link..'
     enabled: false
     only_homepage: false
     type: note
     learn_more_link: null
+custom_logo:
+  user/assets/typhoon/logo.svg:
+    name: logo.svg
+    type: image/svg+xml
+    size: 5135
+    path: user/assets/typhoon/logo.svg

@@ -1,8 +1,8 @@
 ---
-title: Rocket Physics
+title: 'Rocket Physics'
 menu: Physics
 hero:
-    content: Simulation of the supersonic flow around SpaceX Dragon during atmospheric re-entry using ANSYS CFX
+    content: 'Simulation of the supersonic flow around SpaceX Dragon during atmospheric re-entry using ANSYS CFX'
     image: physics.jpg
 ---
 

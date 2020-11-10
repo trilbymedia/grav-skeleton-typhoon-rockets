@@ -1,9 +1,9 @@
 ---
-title: Rocket Uses
+title: 'Rocket Uses'
 show_children_in_secondary_menu: true
 menu: Uses
 hero:
-    content: Rockets have a variety of uses
+    content: 'Rockets have a variety of uses'
     image: types-of-rockets.jpg
 ---
 

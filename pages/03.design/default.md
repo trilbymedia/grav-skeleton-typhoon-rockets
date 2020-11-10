@@ -1,8 +1,8 @@
 ---
-title: Rocket Design
+title: 'Rocket Design'
 menu: Design
 hero:
-    content: Rockets come in all shapes and sizes
+    content: 'Rockets come in all shapes and sizes'
     image: different-rockets.jpg
 ---
 

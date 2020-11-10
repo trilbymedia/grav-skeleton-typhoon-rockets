@@ -1,11 +1,11 @@
 ---
-title: Rocket History
+title: 'Rocket History'
 menu: History
 header_bar:
     background: transparent
     text: dark
 hero:
-    content: Rockets have been in development for 800 years
+    content: 'Rockets have been in development for 800 years'
     overlay: light
     overlay_direction: right
     overlay_gradient:
