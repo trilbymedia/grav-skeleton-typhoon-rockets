@@ -2,6 +2,8 @@
 
 This skeleton serves as a basic content skeleton with both **dropdown menus** and **split menu** examples.
 
+![](assets/typhoon-rockets.jpg)
+
 ## Installation
 
 1. Download latest Grav package.  Either [Grav 1.6](https://getgrav.org/download/core/grav/latest) or [Grav 1.7RC](https://getgrav.org/download/core/grav/latest?testing)
