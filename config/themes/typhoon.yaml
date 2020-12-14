@@ -47,6 +47,11 @@ footer:
       link: 'https://github.com/getgrav'
   copyright: "[Grav](https://getgrav.org?classes=hover:text-primary,font-bold) was \r\n[svg-icon icon=\"code\" class=\"text-gray-700 dark:text-gray-400 w-4 h-4\"] with\r\n[svg-icon icon=\"heart\" class=\"text-red-700 w-4 h-4 animate-pulse\"] by \r\n[Trilby Media, LLC](https://trilby.media?classes=hover:text-primary,font-bold)\r\n"
 notices:
+  - content: 'Checkout the **[Start Here page](/start-here)** for more information about Typhoon Theme'
+    enabled: true
+    only_homepage: true
+    type: note
+    learn_more_link: '/start-here'
   -
     content: 'An example **critical** message that should show up on homepage only'
     enabled: false

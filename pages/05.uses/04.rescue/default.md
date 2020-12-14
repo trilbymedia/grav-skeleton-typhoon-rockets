@@ -1,7 +1,5 @@
 ---
 title: Rescue
-hero:
-    display: no
 ---
 
 # Rescue

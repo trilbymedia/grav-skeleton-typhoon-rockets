@@ -1,7 +1,7 @@
 ---
 title: Energy
 hero:
-    display: no
+    display: false
 ---
 
 # Energy

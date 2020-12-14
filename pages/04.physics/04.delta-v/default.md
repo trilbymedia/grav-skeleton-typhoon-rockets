@@ -1,7 +1,7 @@
 ---
 title: Delta-V
 hero:
-    display: no
+    display: false
 ---
 
 # Delta-V

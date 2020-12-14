@@ -13,6 +13,9 @@ hero:
     title:
         text: 'The Story of Rockets'
     content: 'You need nerves of steel if climbing aboard a rocket is your career path.'
+seo-magic:
+    opengraph:
+        title: 'The Story of Rockets'
 ---
 
 # Introduction 

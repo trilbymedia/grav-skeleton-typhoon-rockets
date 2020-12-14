@@ -1,7 +1,5 @@
 ---
 title: Military Rockets
-hero:
-    display: no
 ---
 
 # Military

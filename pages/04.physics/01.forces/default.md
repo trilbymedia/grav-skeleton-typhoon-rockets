@@ -2,7 +2,7 @@
 title: Forces on a rocket in flight
 menu: Forces in Flight
 hero:
-    display: no
+    display: false
 ---
 
 # Forces on a rocket in flight

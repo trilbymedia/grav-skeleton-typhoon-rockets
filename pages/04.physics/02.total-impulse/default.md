@@ -1,7 +1,7 @@
 ---
 title: Total Impulse
 hero:
-    display: no
+    display: false
 ---
 
 # Total Impulse

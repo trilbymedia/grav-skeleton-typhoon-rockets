@@ -1,7 +1,7 @@
 ---
 title: Specific Impulse
 hero:
-    display: no
+    display: false
 ---
 
 # Specific Impulse

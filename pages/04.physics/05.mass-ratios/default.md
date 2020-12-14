@@ -1,7 +1,7 @@
 ---
 title: Mass Ratios
 hero:
-    display: no
+    display: false
 ---
 
 # Mass Ratios

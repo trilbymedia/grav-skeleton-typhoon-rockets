@@ -1,7 +1,5 @@
 ---
 title: Spaceflight
-hero:
-    display: no
 ---
 
 # Spaceflight

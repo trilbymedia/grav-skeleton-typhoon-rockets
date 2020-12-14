@@ -1,7 +1,7 @@
 ---
 title: Staging
 hero:
-    display: no
+    display: false
 ---
 
 # Staging

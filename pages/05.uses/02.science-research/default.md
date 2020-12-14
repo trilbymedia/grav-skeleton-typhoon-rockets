@@ -1,7 +1,5 @@
 ---
 title: Science & Research
-hero:
-    display: no
 ---
 
 # Science & Research
