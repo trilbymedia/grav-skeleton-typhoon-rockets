@@ -38,4 +38,4 @@ This skeleton serves as a basic content skeleton with both **dropdown menus** an
     bin/gpm install error markdown-notices problems typhoon color-tools shortcode-core svg-icons
     ```
     
-Your site should have everything it needs to replicate the **Typhoon Rockets** skeleton site.  Please compare your local copy to the [Typhoon Rockets Demo Site](https://demo.getgrav.org/typhoon-rockets-skeleton).
+Your site should have everything it needs to replicate the **Typhoon Rockets** skeleton site.  Please compare your local copy to the [Typhoon Rockets Demo Site](https://demo.getgrav.org/typhoon/rockets).
