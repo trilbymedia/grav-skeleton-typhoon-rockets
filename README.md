@@ -1,6 +1,6 @@
 # Typhoon Rockets Skeleton
 
-This skeleton serves as a basic content skeleton with both **dropdown menus** and **split menu** examples.
+This skeleton serves as a basic content skeleton with both **dropdown menus** and **split menu** examples for the [Typhoon Grav Premium Theme](https://getgrav.org/premium/typhoon).
 
 ## Installation
 
