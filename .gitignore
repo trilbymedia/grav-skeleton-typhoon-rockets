@@ -26,3 +26,8 @@ Thumbs.db
 /config/scheduler.yaml
 /config/streams.yaml
 /config/versions.yaml
+/config/plugins/nextgen-editor.yaml
+/config/plugins/problems.yaml
+/config/plugins/youtube.yaml
+/config/plugins/seo-magic.yaml
+/config/plugins/shortcode-nextgen-editor.yaml
